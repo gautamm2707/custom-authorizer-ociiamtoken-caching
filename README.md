@@ -2,7 +2,7 @@
 
 OCI Function to cache OCI IAM token in order to access OIC REST Endpoints via API Gateway. This repo is the code for my blog post https://www.ateam-oracle.com/post/use-custom-scopes-to-restrict-access-to-oic-rest-endpoints-with-oci-iam-and-api-gateway
 
-Running the script
+# Running the script
 how to run in OCI:
 
 Login to OCI Tenancy
